@@ -21,6 +21,10 @@ CSS Modules allow you to scope CSS to a component by automatically creating uniq
 
 Tailwind and CSS modules are the two most common ways of styling Next.js applications. Whether you use one or the other is a matter of preference - you can even use both in the same application!
 
+Using the clsx library to toggle class names
+There may be cases where you may need to conditionally style an element based on state or some other condition.
+
+clsx is a library that lets you toggle class names easily. We recommend taking a look at documentation for more details, but here's the basic usage:
 
 
 ## Quiz
