@@ -18,3 +18,11 @@ When you use create-next-app to start a new project, Next.js will ask if you wan
 If you prefer writing traditional CSS rules or keeping your styles separate from your JSX - CSS Modules are a great alternative.
 
 CSS Modules allow you to scope CSS to a component by automatically creating unique class names, so you don't have to worry about style collisions as well.
+
+Tailwind and CSS modules are the two most common ways of styling Next.js applications. Whether you use one or the other is a matter of preference - you can even use both in the same application!
+
+
+
+## Quiz
+What is one benefit of using CSS modules?
+Ans. Provide a way to make CSS classes locally scoped to components by default, reducing the risk of styling conflicts.
